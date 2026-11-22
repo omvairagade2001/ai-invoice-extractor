@@ -1,0 +1,521 @@
+{
+  "file": "larkspur_LF-26-0463.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Larkspur Freight Co.",
+        "invoice_number": "LF/26/0463",
+        "invoice_date": "2026-03-05",
+        "due_date": "2026-03-20",
+        "reference": "SHP-88460",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2231, Austin to Round Rock",
+            "qty": "1",
+            "unit_price": "48.00",
+            "amount": "48.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2232, Austin to Georgetown",
+            "qty": "3",
+            "unit_price": "62.00",
+            "amount": "186.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2233, Austin to San Marcos",
+            "qty": "3",
+            "unit_price": "66.00",
+            "amount": "198.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2234, Austin to Pflugerville",
+            "qty": "1",
+            "unit_price": "44.00",
+            "amount": "44.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2235, Austin to Cedar Park",
+            "qty": "1",
+            "unit_price": "46.00",
+            "amount": "46.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2236, Austin to Kyle",
+            "qty": "3",
+            "unit_price": "52.00",
+            "amount": "156.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2237, Austin to Buda",
+            "qty": "2",
+            "unit_price": "49.00",
+            "amount": "98.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2238, Austin to Leander",
+            "qty": "3",
+            "unit_price": "55.00",
+            "amount": "165.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2239, Austin to Bastrop",
+            "qty": "3",
+            "unit_price": "71.00",
+            "amount": "213.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2240, Austin to Hutto",
+            "qty": "2",
+            "unit_price": "53.00",
+            "amount": "106.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2241, Austin to Lakeway",
+            "qty": "2",
+            "unit_price": "58.00",
+            "amount": "116.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2242, Austin to Manor",
+            "qty": "1",
+            "unit_price": "47.00",
+            "amount": "47.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2243, Austin to Dripping Springs",
+            "qty": "1",
+            "unit_price": "69.00",
+            "amount": "69.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2244, Austin to Round Rock",
+            "qty": "2",
+            "unit_price": "48.00",
+            "amount": "96.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2245, Austin to Georgetown",
+            "qty": "3",
+            "unit_price": "62.00",
+            "amount": "186.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2246, Austin to San Marcos",
+            "qty": "2",
+            "unit_price": "66.00",
+            "amount": "132.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2247, Austin to Pflugerville",
+            "qty": "2",
+            "unit_price": "44.00",
+            "amount": "88.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2248, Austin to Cedar Park",
+            "qty": "3",
+            "unit_price": "46.00",
+            "amount": "138.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2249, Austin to Kyle",
+            "qty": "3",
+            "unit_price": "52.00",
+            "amount": "156.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2250, Austin to Buda",
+            "qty": "1",
+            "unit_price": "49.00",
+            "amount": "49.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2251, Austin to Leander",
+            "qty": "2",
+            "unit_price": "55.00",
+            "amount": "110.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2252, Austin to Bastrop",
+            "qty": "3",
+            "unit_price": "71.00",
+            "amount": "213.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2253, Austin to Hutto",
+            "qty": "1",
+            "unit_price": "53.00",
+            "amount": "53.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2254, Austin to Lakeway",
+            "qty": "1",
+            "unit_price": "58.00",
+            "amount": "58.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2255, Austin to Manor",
+            "qty": "3",
+            "unit_price": "47.00",
+            "amount": "141.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2256, Austin to Dripping Springs",
+            "qty": "2",
+            "unit_price": "69.00",
+            "amount": "138.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2257, Austin to Round Rock",
+            "qty": "3",
+            "unit_price": "48.00",
+            "amount": "144.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2258, Austin to Georgetown",
+            "qty": "2",
+            "unit_price": "62.00",
+            "amount": "124.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2259, Austin to San Marcos",
+            "qty": "2",
+            "unit_price": "66.00",
+            "amount": "132.00"
+          },
+          {
+            "code": "DLV",
+            "description": "Delivery job J-2260, Austin to Pflugerville",
+            "qty": "2",
+            "unit_price": "44.00",
+            "amount": "88.00"
+          },
+          {
+            "code": "LFT",
+            "description": "Liftgate service",
+            "qty": "6",
+            "unit_price": "45.00",
+            "amount": "270.00"
+          },
+          {
+            "code": "INS",
+            "description": "White-glove install, showroom fixtures",
+            "qty": "7.5",
+            "unit_price": "72.50",
+            "amount": "543.75"
+          },
+          {
+            "code": "PKG",
+            "description": "Packing materials",
+            "qty": "2",
+            "unit_price": "38.40",
+            "amount": "76.80"
+          },
+          {
+            "code": "FSC",
+            "description": "Fuel surcharge",
+            "qty": "30",
+            "unit_price": "18.75",
+            "amount": "562.50"
+          }
+        ],
+        "subtotal": "4991.05",
+        "tax_rate": "8.25",
+        "tax": "411.76",
+        "total": "5402.81",
+        "reader_notes": "Two-page invoice, all text clear. Units printed per line (trip, stop, hr, lot) are not carried in the line fields. Subtotal is printed as 'Net Total'. Terms Net 15. Customer: Bluefern Interiors LLC, account BLU-0042. Marked as a synthetic sample document."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Larkspur Freight Co.",
+    "invoice_number": "LF/26/0463",
+    "invoice_date": "2026-03-05",
+    "due_date": "2026-03-20",
+    "reference": "SHP-88460",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2231, Austin to Round Rock",
+        "qty": "1",
+        "unit_price": "48.00",
+        "amount": "48.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2232, Austin to Georgetown",
+        "qty": "3",
+        "unit_price": "62.00",
+        "amount": "186.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2233, Austin to San Marcos",
+        "qty": "3",
+        "unit_price": "66.00",
+        "amount": "198.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2234, Austin to Pflugerville",
+        "qty": "1",
+        "unit_price": "44.00",
+        "amount": "44.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2235, Austin to Cedar Park",
+        "qty": "1",
+        "unit_price": "46.00",
+        "amount": "46.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2236, Austin to Kyle",
+        "qty": "3",
+        "unit_price": "52.00",
+        "amount": "156.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2237, Austin to Buda",
+        "qty": "2",
+        "unit_price": "49.00",
+        "amount": "98.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2238, Austin to Leander",
+        "qty": "3",
+        "unit_price": "55.00",
+        "amount": "165.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2239, Austin to Bastrop",
+        "qty": "3",
+        "unit_price": "71.00",
+        "amount": "213.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2240, Austin to Hutto",
+        "qty": "2",
+        "unit_price": "53.00",
+        "amount": "106.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2241, Austin to Lakeway",
+        "qty": "2",
+        "unit_price": "58.00",
+        "amount": "116.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2242, Austin to Manor",
+        "qty": "1",
+        "unit_price": "47.00",
+        "amount": "47.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2243, Austin to Dripping Springs",
+        "qty": "1",
+        "unit_price": "69.00",
+        "amount": "69.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2244, Austin to Round Rock",
+        "qty": "2",
+        "unit_price": "48.00",
+        "amount": "96.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2245, Austin to Georgetown",
+        "qty": "3",
+        "unit_price": "62.00",
+        "amount": "186.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2246, Austin to San Marcos",
+        "qty": "2",
+        "unit_price": "66.00",
+        "amount": "132.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2247, Austin to Pflugerville",
+        "qty": "2",
+        "unit_price": "44.00",
+        "amount": "88.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2248, Austin to Cedar Park",
+        "qty": "3",
+        "unit_price": "46.00",
+        "amount": "138.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2249, Austin to Kyle",
+        "qty": "3",
+        "unit_price": "52.00",
+        "amount": "156.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2250, Austin to Buda",
+        "qty": "1",
+        "unit_price": "49.00",
+        "amount": "49.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2251, Austin to Leander",
+        "qty": "2",
+        "unit_price": "55.00",
+        "amount": "110.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2252, Austin to Bastrop",
+        "qty": "3",
+        "unit_price": "71.00",
+        "amount": "213.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2253, Austin to Hutto",
+        "qty": "1",
+        "unit_price": "53.00",
+        "amount": "53.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2254, Austin to Lakeway",
+        "qty": "1",
+        "unit_price": "58.00",
+        "amount": "58.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2255, Austin to Manor",
+        "qty": "3",
+        "unit_price": "47.00",
+        "amount": "141.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2256, Austin to Dripping Springs",
+        "qty": "2",
+        "unit_price": "69.00",
+        "amount": "138.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2257, Austin to Round Rock",
+        "qty": "3",
+        "unit_price": "48.00",
+        "amount": "144.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2258, Austin to Georgetown",
+        "qty": "2",
+        "unit_price": "62.00",
+        "amount": "124.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2259, Austin to San Marcos",
+        "qty": "2",
+        "unit_price": "66.00",
+        "amount": "132.00"
+      },
+      {
+        "code": "DLV",
+        "description": "Delivery job J-2260, Austin to Pflugerville",
+        "qty": "2",
+        "unit_price": "44.00",
+        "amount": "88.00"
+      },
+      {
+        "code": "LFT",
+        "description": "Liftgate service",
+        "qty": "6",
+        "unit_price": "45.00",
+        "amount": "270.00"
+      },
+      {
+        "code": "INS",
+        "description": "White-glove install, showroom fixtures",
+        "qty": "7.5",
+        "unit_price": "72.50",
+        "amount": "543.75"
+      },
+      {
+        "code": "PKG",
+        "description": "Packing materials",
+        "qty": "2",
+        "unit_price": "38.40",
+        "amount": "76.80"
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "qty": "30",
+        "unit_price": "18.75",
+        "amount": "562.50"
+      }
+    ],
+    "subtotal": "4991.05",
+    "tax_rate": "8.25",
+    "tax": "411.76",
+    "total": "5402.81",
+    "reader_notes": "Two-page invoice, all text clear. Units printed per line (trip, stop, hr, lot) are not carried in the line fields. Subtotal is printed as 'Net Total'. Terms Net 15. Customer: Bluefern Interiors LLC, account BLU-0042. Marked as a synthetic sample document."
+  },
+  "checks": []
+}

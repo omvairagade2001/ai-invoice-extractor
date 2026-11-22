@@ -1,0 +1,115 @@
+{
+  "file": "scan_0037.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Harbor & Pine Stationery Co.",
+        "invoice_number": "HP-10437",
+        "invoice_date": "2026-03-17",
+        "due_date": "2026-04-16",
+        "reference": "BF-PO-2252",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "STA-8044",
+            "description": "Toner Cartridge, Black, High Yield",
+            "qty": "2",
+            "unit_price": "64.99",
+            "amount": "129.98"
+          },
+          {
+            "code": "STA-1042",
+            "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+            "qty": "5",
+            "unit_price": "52.90",
+            "amount": "264.50"
+          },
+          {
+            "code": "STA-6003",
+            "description": "Bamboo Desk Organizer",
+            "qty": "2",
+            "unit_price": "31.00",
+            "amount": "62.00"
+          },
+          {
+            "code": "STA-4415",
+            "description": "Whiteboard Markers, 8 colors",
+            "qty": "4",
+            "unit_price": "13.20",
+            "amount": "52.80"
+          },
+          {
+            "code": "STA-5021",
+            "description": "Archive Storage Boxes (pack of 10)",
+            "qty": "3",
+            "unit_price": "27.60",
+            "amount": "82.80"
+          }
+        ],
+        "subtotal": "592.08",
+        "tax_rate": "8.25",
+        "tax": "48.85",
+        "total": "640.93",
+        "reader_notes": "Scanned page with speckle noise and a slight tilt; all fields were readable. The currency is taken from the $ signs. The line amounts add up to 592.08, which matches the printed subtotal. The footer marks this as a synthetic sample document."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Harbor & Pine Stationery Co.",
+    "invoice_number": "HP-10437",
+    "invoice_date": "2026-03-17",
+    "due_date": "2026-04-16",
+    "reference": "BF-PO-2252",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "STA-8044",
+        "description": "Toner Cartridge, Black, High Yield",
+        "qty": "2",
+        "unit_price": "64.99",
+        "amount": "129.98"
+      },
+      {
+        "code": "STA-1042",
+        "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+        "qty": "5",
+        "unit_price": "52.90",
+        "amount": "264.50"
+      },
+      {
+        "code": "STA-6003",
+        "description": "Bamboo Desk Organizer",
+        "qty": "2",
+        "unit_price": "31.00",
+        "amount": "62.00"
+      },
+      {
+        "code": "STA-4415",
+        "description": "Whiteboard Markers, 8 colors",
+        "qty": "4",
+        "unit_price": "13.20",
+        "amount": "52.80"
+      },
+      {
+        "code": "STA-5021",
+        "description": "Archive Storage Boxes (pack of 10)",
+        "qty": "3",
+        "unit_price": "27.60",
+        "amount": "82.80"
+      }
+    ],
+    "subtotal": "592.08",
+    "tax_rate": "8.25",
+    "tax": "48.85",
+    "total": "640.93",
+    "reader_notes": "Scanned page with speckle noise and a slight tilt; all fields were readable. The currency is taken from the $ signs. The line amounts add up to 592.08, which matches the printed subtotal. The footer marks this as a synthetic sample document."
+  },
+  "checks": []
+}

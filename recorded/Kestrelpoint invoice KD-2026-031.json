@@ -1,0 +1,87 @@
+{
+  "file": "Kestrelpoint invoice KD-2026-031.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Kestrelpoint Digital LLC",
+        "invoice_number": "KD-2026-031",
+        "invoice_date": "2026-03-01",
+        "due_date": "2026-03-31",
+        "reference": "BLU-WEB-07",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": null,
+            "description": "Website maintenance retainer, March 2026 - Security updates, nightly backups, uptime monitoring",
+            "qty": "10.00",
+            "unit_price": "95.00",
+            "amount": "950.00"
+          },
+          {
+            "code": null,
+            "description": "Managed hosting, Business plan (monthly)",
+            "qty": "1.00",
+            "unit_price": "149.00",
+            "amount": "149.00"
+          },
+          {
+            "code": null,
+            "description": "Support tickets resolved (12) - Email and phone support, average response 2 h",
+            "qty": "3.25",
+            "unit_price": "85.00",
+            "amount": "276.25"
+          }
+        ],
+        "subtotal": "1375.25",
+        "tax_rate": "6.25",
+        "tax": "85.95",
+        "total": "1461.20",
+        "reader_notes": "All values read clearly. Single page. Marked as a synthetic sample document for a demo."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Kestrelpoint Digital LLC",
+    "invoice_number": "KD-2026-031",
+    "invoice_date": "2026-03-01",
+    "due_date": "2026-03-31",
+    "reference": "BLU-WEB-07",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": null,
+        "description": "Website maintenance retainer, March 2026 - Security updates, nightly backups, uptime monitoring",
+        "qty": "10.00",
+        "unit_price": "95.00",
+        "amount": "950.00"
+      },
+      {
+        "code": null,
+        "description": "Managed hosting, Business plan (monthly)",
+        "qty": "1.00",
+        "unit_price": "149.00",
+        "amount": "149.00"
+      },
+      {
+        "code": null,
+        "description": "Support tickets resolved (12) - Email and phone support, average response 2 h",
+        "qty": "3.25",
+        "unit_price": "85.00",
+        "amount": "276.25"
+      }
+    ],
+    "subtotal": "1375.25",
+    "tax_rate": "6.25",
+    "tax": "85.95",
+    "total": "1461.20",
+    "reader_notes": "All values read clearly. Single page. Marked as a synthetic sample document for a demo."
+  },
+  "checks": []
+}

@@ -1,0 +1,101 @@
+{
+  "file": "INV_HP-10425.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Harbor & Pine Stationery Co.",
+        "invoice_number": "HP-10425",
+        "invoice_date": "2026-02-23",
+        "due_date": "2026-03-25",
+        "reference": "BF-PO-2238",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "STA-8044",
+            "description": "Toner Cartridge, Black, High Yield",
+            "qty": "3",
+            "unit_price": "64.99",
+            "amount": "194.97"
+          },
+          {
+            "code": "STA-5021",
+            "description": "Archive Storage Boxes (pack of 10)",
+            "qty": "4",
+            "unit_price": "27.60",
+            "amount": "110.40"
+          },
+          {
+            "code": "STA-4415",
+            "description": "Whiteboard Markers, 8 colors",
+            "qty": "6",
+            "unit_price": "13.20",
+            "amount": "79.20"
+          },
+          {
+            "code": "STA-2655",
+            "description": "Fabric Swatch Binders, 2 in",
+            "qty": "10",
+            "unit_price": "8.35",
+            "amount": "83.50"
+          }
+        ],
+        "subtotal": "468.07",
+        "tax_rate": "8.25",
+        "tax": "38.62",
+        "total": "506.69",
+        "reader_notes": "All fields were clearly readable. The currency is not printed: USD is inferred from the $ signs and the Texas address. The page is marked as a synthetic sample document."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Harbor & Pine Stationery Co.",
+    "invoice_number": "HP-10425",
+    "invoice_date": "2026-02-23",
+    "due_date": "2026-03-25",
+    "reference": "BF-PO-2238",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "STA-8044",
+        "description": "Toner Cartridge, Black, High Yield",
+        "qty": "3",
+        "unit_price": "64.99",
+        "amount": "194.97"
+      },
+      {
+        "code": "STA-5021",
+        "description": "Archive Storage Boxes (pack of 10)",
+        "qty": "4",
+        "unit_price": "27.60",
+        "amount": "110.40"
+      },
+      {
+        "code": "STA-4415",
+        "description": "Whiteboard Markers, 8 colors",
+        "qty": "6",
+        "unit_price": "13.20",
+        "amount": "79.20"
+      },
+      {
+        "code": "STA-2655",
+        "description": "Fabric Swatch Binders, 2 in",
+        "qty": "10",
+        "unit_price": "8.35",
+        "amount": "83.50"
+      }
+    ],
+    "subtotal": "468.07",
+    "tax_rate": "8.25",
+    "tax": "38.62",
+    "total": "506.69",
+    "reader_notes": "All fields were clearly readable. The currency is not printed: USD is inferred from the $ signs and the Texas address. The page is marked as a synthetic sample document."
+  },
+  "checks": []
+}

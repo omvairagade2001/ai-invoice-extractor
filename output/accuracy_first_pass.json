@@ -1,0 +1,9 @@
+{
+  "documents": 14,
+  "fields_checked": 553,
+  "fields_right": 552,
+  "accuracy_pct": 99.82,
+  "misses": [
+    "Kestrelpoint invoice KD-2026-034.pdf: subtotal = '2941.50', printed '2991.50'"
+  ]
+}

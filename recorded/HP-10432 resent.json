@@ -1,0 +1,129 @@
+{
+  "file": "HP-10432 resent.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Harbor & Pine Stationery Co.",
+        "invoice_number": "HP-10432",
+        "invoice_date": "2026-03-06",
+        "due_date": "2026-04-05",
+        "reference": "BF-PO-2246",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "STA-1042",
+            "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+            "qty": "6",
+            "unit_price": "52.90",
+            "amount": "317.40"
+          },
+          {
+            "code": "STA-7120",
+            "description": "Laminating Pouches, Letter (100)",
+            "qty": "2",
+            "unit_price": "18.45",
+            "amount": "36.90"
+          },
+          {
+            "code": "STA-3871",
+            "description": "Drafting Pencils, 2H-6B (set of 12)",
+            "qty": "4",
+            "unit_price": "15.60",
+            "amount": "62.40"
+          },
+          {
+            "code": "STA-9310",
+            "description": "Cable Ties, 8 in (pack of 200)",
+            "qty": "3",
+            "unit_price": "6.80",
+            "amount": "20.40"
+          },
+          {
+            "code": "STA-2210",
+            "description": "Gel Pens, Black (pack of 12)",
+            "qty": "4",
+            "unit_price": "9.75",
+            "amount": "39.00"
+          },
+          {
+            "code": "STA-1180",
+            "description": "Sticky Notes 3x3 in (12 pads)",
+            "qty": "8",
+            "unit_price": "11.40",
+            "amount": "91.20"
+          }
+        ],
+        "subtotal": "567.30",
+        "tax_rate": "8.25",
+        "tax": "46.80",
+        "total": "614.10",
+        "reader_notes": "Single page, everything read clearly. The dates are printed in US MM/DD/YYYY format (03/06/2026 and 04/05/2026), which fits the printed Net 30 terms. The page footer marks it as a synthetic sample document."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Harbor & Pine Stationery Co.",
+    "invoice_number": "HP-10432",
+    "invoice_date": "2026-03-06",
+    "due_date": "2026-04-05",
+    "reference": "BF-PO-2246",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "STA-1042",
+        "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+        "qty": "6",
+        "unit_price": "52.90",
+        "amount": "317.40"
+      },
+      {
+        "code": "STA-7120",
+        "description": "Laminating Pouches, Letter (100)",
+        "qty": "2",
+        "unit_price": "18.45",
+        "amount": "36.90"
+      },
+      {
+        "code": "STA-3871",
+        "description": "Drafting Pencils, 2H-6B (set of 12)",
+        "qty": "4",
+        "unit_price": "15.60",
+        "amount": "62.40"
+      },
+      {
+        "code": "STA-9310",
+        "description": "Cable Ties, 8 in (pack of 200)",
+        "qty": "3",
+        "unit_price": "6.80",
+        "amount": "20.40"
+      },
+      {
+        "code": "STA-2210",
+        "description": "Gel Pens, Black (pack of 12)",
+        "qty": "4",
+        "unit_price": "9.75",
+        "amount": "39.00"
+      },
+      {
+        "code": "STA-1180",
+        "description": "Sticky Notes 3x3 in (12 pads)",
+        "qty": "8",
+        "unit_price": "11.40",
+        "amount": "91.20"
+      }
+    ],
+    "subtotal": "567.30",
+    "tax_rate": "8.25",
+    "tax": "46.80",
+    "total": "614.10",
+    "reader_notes": "Single page, everything read clearly. The dates are printed in US MM/DD/YYYY format (03/06/2026 and 04/05/2026), which fits the printed Net 30 terms. The page footer marks it as a synthetic sample document."
+  },
+  "checks": []
+}

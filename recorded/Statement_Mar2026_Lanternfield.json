@@ -1,0 +1,43 @@
+{
+  "file": "Statement_Mar2026_Lanternfield.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "bank_statement",
+        "vendor": null,
+        "invoice_number": null,
+        "invoice_date": null,
+        "due_date": null,
+        "reference": null,
+        "currency": null,
+        "lines": [],
+        "subtotal": null,
+        "tax_rate": null,
+        "tax": null,
+        "total": null,
+        "reader_notes": "This is not an invoice. It is a Lanternfield Bank business checking statement for BLUEFERN INTERIORS LLC, account ****4821, covering 2026-03-01 to 2026-03-31, in USD. It is marked as a synthetic sample. It has 2 pages. Opening balance 48215.37, deposits and credits (12) 97773.18, withdrawals and debits (33) 80037.72, closing balance 65950.83. Every value was read clearly. Some debits name supplier invoices (Harbor & Pine HP-10418/10425/10432, Larkspur Freight LF/26/0457/0463/0470, Kestrelpoint Digital KD-2026-031/034), but these are payments, not invoices."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "bank_statement",
+    "vendor": null,
+    "invoice_number": null,
+    "invoice_date": null,
+    "due_date": null,
+    "reference": null,
+    "currency": null,
+    "lines": [],
+    "subtotal": null,
+    "tax_rate": null,
+    "tax": null,
+    "total": null,
+    "reader_notes": "This is not an invoice. It is a Lanternfield Bank business checking statement for BLUEFERN INTERIORS LLC, account ****4821, covering 2026-03-01 to 2026-03-31, in USD. It is marked as a synthetic sample. It has 2 pages. Opening balance 48215.37, deposits and credits (12) 97773.18, withdrawals and debits (33) 80037.72, closing balance 65950.83. Every value was read clearly. Some debits name supplier invoices (Harbor & Pine HP-10418/10425/10432, Larkspur Freight LF/26/0457/0463/0470, Kestrelpoint Digital KD-2026-031/034), but these are payments, not invoices."
+  },
+  "checks": []
+}

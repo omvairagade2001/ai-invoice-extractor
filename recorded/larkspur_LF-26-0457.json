@@ -1,0 +1,115 @@
+{
+  "file": "larkspur_LF-26-0457.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Larkspur Freight Co.",
+        "invoice_number": "LF/26/0457",
+        "invoice_date": "2026-02-27",
+        "due_date": "2026-03-14",
+        "reference": "SHP-88412",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "DLV",
+            "description": "Pallet delivery, Austin to Dallas",
+            "qty": "6",
+            "unit_price": "85.00",
+            "amount": "510.00"
+          },
+          {
+            "code": "LFT",
+            "description": "Liftgate service",
+            "qty": "2",
+            "unit_price": "45.00",
+            "amount": "90.00"
+          },
+          {
+            "code": "RES",
+            "description": "Residential delivery surcharge",
+            "qty": "1",
+            "unit_price": "60.00",
+            "amount": "60.00"
+          },
+          {
+            "code": "INS",
+            "description": "White-glove install, showroom fixtures",
+            "qty": "3.5",
+            "unit_price": "72.50",
+            "amount": "253.75"
+          },
+          {
+            "code": "FSC",
+            "description": "Fuel surcharge",
+            "qty": "2",
+            "unit_price": "18.75",
+            "amount": "37.50"
+          }
+        ],
+        "subtotal": "951.25",
+        "tax_rate": "8.25",
+        "tax": "78.48",
+        "total": "1029.73",
+        "reader_notes": "Single page, clearly legible. Line units printed: pallet, stop, stop, hr, trip. INS qty is printed as 3.5 (has a decimal point). The reference is the Shipment Ref; the customer account is BLU-0042. Terms Net 15. Marked as a synthetic sample document."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Larkspur Freight Co.",
+    "invoice_number": "LF/26/0457",
+    "invoice_date": "2026-02-27",
+    "due_date": "2026-03-14",
+    "reference": "SHP-88412",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "DLV",
+        "description": "Pallet delivery, Austin to Dallas",
+        "qty": "6",
+        "unit_price": "85.00",
+        "amount": "510.00"
+      },
+      {
+        "code": "LFT",
+        "description": "Liftgate service",
+        "qty": "2",
+        "unit_price": "45.00",
+        "amount": "90.00"
+      },
+      {
+        "code": "RES",
+        "description": "Residential delivery surcharge",
+        "qty": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      },
+      {
+        "code": "INS",
+        "description": "White-glove install, showroom fixtures",
+        "qty": "3.5",
+        "unit_price": "72.50",
+        "amount": "253.75"
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "qty": "2",
+        "unit_price": "18.75",
+        "amount": "37.50"
+      }
+    ],
+    "subtotal": "951.25",
+    "tax_rate": "8.25",
+    "tax": "78.48",
+    "total": "1029.73",
+    "reader_notes": "Single page, clearly legible. Line units printed: pallet, stop, stop, hr, trip. INS qty is printed as 3.5 (has a decimal point). The reference is the Shipment Ref; the customer account is BLU-0042. Terms Net 15. Marked as a synthetic sample document."
+  },
+  "checks": []
+}

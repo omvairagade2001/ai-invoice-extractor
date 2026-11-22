@@ -1,0 +1,101 @@
+{
+  "file": "larkspur_LF-26-0470.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Larkspur Freight Co.",
+        "invoice_number": "LF/26/0470",
+        "invoice_date": "2026-03-12",
+        "due_date": "2026-03-27",
+        "reference": "SHP-88507",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "STO",
+            "description": "Climate-controlled storage",
+            "qty": "14",
+            "unit_price": "12.00",
+            "amount": "168.00"
+          },
+          {
+            "code": "PKG",
+            "description": "Packing materials",
+            "qty": "3",
+            "unit_price": "38.40",
+            "amount": "115.20"
+          },
+          {
+            "code": "CUR",
+            "description": "Same-day courier, Austin metro",
+            "qty": "4",
+            "unit_price": "54.00",
+            "amount": "216.00"
+          },
+          {
+            "code": "FSC",
+            "description": "Fuel surcharge",
+            "qty": "4",
+            "unit_price": "18.75",
+            "amount": "75.00"
+          }
+        ],
+        "subtotal": "574.20",
+        "tax_rate": "8.25",
+        "tax": "47.37",
+        "total": "621.57",
+        "reader_notes": "The quantity units are day, lot, trip and trip. Customer: Bluefern Interiors LLC (account BLU-0042). Terms: Net 15. The reference is the printed shipment reference. The document is marked as a synthetic sample."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Larkspur Freight Co.",
+    "invoice_number": "LF/26/0470",
+    "invoice_date": "2026-03-12",
+    "due_date": "2026-03-27",
+    "reference": "SHP-88507",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "STO",
+        "description": "Climate-controlled storage",
+        "qty": "14",
+        "unit_price": "12.00",
+        "amount": "168.00"
+      },
+      {
+        "code": "PKG",
+        "description": "Packing materials",
+        "qty": "3",
+        "unit_price": "38.40",
+        "amount": "115.20"
+      },
+      {
+        "code": "CUR",
+        "description": "Same-day courier, Austin metro",
+        "qty": "4",
+        "unit_price": "54.00",
+        "amount": "216.00"
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "qty": "4",
+        "unit_price": "18.75",
+        "amount": "75.00"
+      }
+    ],
+    "subtotal": "574.20",
+    "tax_rate": "8.25",
+    "tax": "47.37",
+    "total": "621.57",
+    "reader_notes": "The quantity units are day, lot, trip and trip. Customer: Bluefern Interiors LLC (account BLU-0042). Terms: Net 15. The reference is the printed shipment reference. The document is marked as a synthetic sample."
+  },
+  "checks": []
+}

@@ -1,0 +1,115 @@
+{
+  "file": "larkspur_LF-26-0478.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Larkspur Freight Co.",
+        "invoice_number": "LF/26/0478",
+        "invoice_date": "2026-03-19",
+        "due_date": "2026-04-03",
+        "reference": "SHP-88551",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": "DLV",
+            "description": "Pallet delivery, Austin to Dallas",
+            "qty": "9",
+            "unit_price": "85.00",
+            "amount": "765.00"
+          },
+          {
+            "code": "LFT",
+            "description": "Liftgate service",
+            "qty": "3",
+            "unit_price": "45.00",
+            "amount": "135.00"
+          },
+          {
+            "code": "INS",
+            "description": "White-glove install, showroom fixtures",
+            "qty": "6",
+            "unit_price": "72.50",
+            "amount": "435.00"
+          },
+          {
+            "code": "RES",
+            "description": "Residential delivery surcharge",
+            "qty": "2",
+            "unit_price": "60.00",
+            "amount": "120.00"
+          },
+          {
+            "code": "FSC",
+            "description": "Fuel surcharge",
+            "qty": "3",
+            "unit_price": "18.75",
+            "amount": "56.25"
+          }
+        ],
+        "subtotal": "1511.25",
+        "tax_rate": "8.25",
+        "tax": "124.68",
+        "total": "1635.93",
+        "reader_notes": "Units printed per line: pallet, stop, hr, stop, trip. The shipment reference SHP-88551 was used as the reference. Customer: Bluefern Interiors LLC, account BLU-0042. Terms: Net 15. The document is marked as a synthetic sample. Everything was clearly legible."
+      },
+      "checks": [],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Larkspur Freight Co.",
+    "invoice_number": "LF/26/0478",
+    "invoice_date": "2026-03-19",
+    "due_date": "2026-04-03",
+    "reference": "SHP-88551",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": "DLV",
+        "description": "Pallet delivery, Austin to Dallas",
+        "qty": "9",
+        "unit_price": "85.00",
+        "amount": "765.00"
+      },
+      {
+        "code": "LFT",
+        "description": "Liftgate service",
+        "qty": "3",
+        "unit_price": "45.00",
+        "amount": "135.00"
+      },
+      {
+        "code": "INS",
+        "description": "White-glove install, showroom fixtures",
+        "qty": "6",
+        "unit_price": "72.50",
+        "amount": "435.00"
+      },
+      {
+        "code": "RES",
+        "description": "Residential delivery surcharge",
+        "qty": "2",
+        "unit_price": "60.00",
+        "amount": "120.00"
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "qty": "3",
+        "unit_price": "18.75",
+        "amount": "56.25"
+      }
+    ],
+    "subtotal": "1511.25",
+    "tax_rate": "8.25",
+    "tax": "124.68",
+    "total": "1635.93",
+    "reader_notes": "Units printed per line: pallet, stop, hr, stop, trip. The shipment reference SHP-88551 was used as the reference. Customer: Bluefern Interiors LLC, account BLU-0042. Terms: Net 15. The document is marked as a synthetic sample. Everything was clearly legible."
+  },
+  "checks": []
+}

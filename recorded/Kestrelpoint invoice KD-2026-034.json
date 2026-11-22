@@ -1,0 +1,156 @@
+{
+  "file": "Kestrelpoint invoice KD-2026-034.pdf",
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude Code agent, same prompt and schema",
+  "seconds": null,
+  "attempts": [
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Kestrelpoint Digital LLC",
+        "invoice_number": "KD-2026-034",
+        "invoice_date": "2026-03-08",
+        "due_date": "2026-04-07",
+        "reference": "BLU-WEB-08",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": null,
+            "description": "Showroom booking page: design and build - Responsive layout, calendar integration, QA on 6 devices",
+            "qty": "18.00",
+            "unit_price": "110.00",
+            "amount": "1980.00"
+          },
+          {
+            "code": null,
+            "description": "SEO audit and fixes - Core Web Vitals, metadata, 31 pages reviewed",
+            "qty": "6.00",
+            "unit_price": "95.00",
+            "amount": "570.00"
+          },
+          {
+            "code": null,
+            "description": "Product photo optimization",
+            "qty": "4.50",
+            "unit_price": "75.00",
+            "amount": "337.50"
+          },
+          {
+            "code": null,
+            "description": "Domain renewals (3 domains)",
+            "qty": "3.00",
+            "unit_price": "18.00",
+            "amount": "54.00"
+          }
+        ],
+        "subtotal": "2941.50",
+        "tax_rate": "6.25",
+        "tax": "186.97",
+        "total": "3178.47",
+        "reader_notes": "Printed subtotal 2,991.50 does not equal the sum of the line amounts (2,941.50). The printed values are kept as printed. The tax and total follow from the printed subtotal (2991.50 x 6.25% = 186.97). The document footer marks it as a synthetic sample."
+      },
+      "checks": [
+        "subtotal 2941.50 + tax 186.97 = 3128.47, printed total is 3178.47",
+        "tax 186.97 is not 6.25% of 2941.50 (183.84)"
+      ],
+      "usage": null
+    },
+    {
+      "extraction": {
+        "document_type": "invoice",
+        "vendor": "Kestrelpoint Digital LLC",
+        "invoice_number": "KD-2026-034",
+        "invoice_date": "2026-03-08",
+        "due_date": "2026-04-07",
+        "reference": "BLU-WEB-08",
+        "currency": "USD",
+        "lines": [
+          {
+            "code": null,
+            "description": "Showroom booking page: design and build - Responsive layout, calendar integration, QA on 6 devices",
+            "qty": "18.00",
+            "unit_price": "110.00",
+            "amount": "1980.00"
+          },
+          {
+            "code": null,
+            "description": "SEO audit and fixes - Core Web Vitals, metadata, 31 pages reviewed",
+            "qty": "6.00",
+            "unit_price": "95.00",
+            "amount": "570.00"
+          },
+          {
+            "code": null,
+            "description": "Product photo optimization",
+            "qty": "4.50",
+            "unit_price": "75.00",
+            "amount": "337.50"
+          },
+          {
+            "code": null,
+            "description": "Domain renewals (3 domains)",
+            "qty": "3.00",
+            "unit_price": "18.00",
+            "amount": "54.00"
+          }
+        ],
+        "subtotal": "2991.50",
+        "tax_rate": "6.25",
+        "tax": "186.97",
+        "total": "3178.47",
+        "reader_notes": "Correction: the earlier extraction returned the subtotal as 2941.50 by mistake. The document prints a subtotal of $2,991.50. With that figure, tax (6.25% of 2991.50 = 186.97) and total (2991.50 + 186.97 = 3178.47) both match what is printed. One real mismatch is on the document itself: the four line amounts add up to 2941.50, which is 50.00 less than the printed subtotal of 2991.50. All values are kept as printed. The footer marks this as a synthetic sample document."
+      },
+      "checks": [
+        "lines add up to 2941.50, printed subtotal is 2991.50 (difference 50.00)"
+      ],
+      "usage": null
+    }
+  ],
+  "final": {
+    "document_type": "invoice",
+    "vendor": "Kestrelpoint Digital LLC",
+    "invoice_number": "KD-2026-034",
+    "invoice_date": "2026-03-08",
+    "due_date": "2026-04-07",
+    "reference": "BLU-WEB-08",
+    "currency": "USD",
+    "lines": [
+      {
+        "code": null,
+        "description": "Showroom booking page: design and build - Responsive layout, calendar integration, QA on 6 devices",
+        "qty": "18.00",
+        "unit_price": "110.00",
+        "amount": "1980.00"
+      },
+      {
+        "code": null,
+        "description": "SEO audit and fixes - Core Web Vitals, metadata, 31 pages reviewed",
+        "qty": "6.00",
+        "unit_price": "95.00",
+        "amount": "570.00"
+      },
+      {
+        "code": null,
+        "description": "Product photo optimization",
+        "qty": "4.50",
+        "unit_price": "75.00",
+        "amount": "337.50"
+      },
+      {
+        "code": null,
+        "description": "Domain renewals (3 domains)",
+        "qty": "3.00",
+        "unit_price": "18.00",
+        "amount": "54.00"
+      }
+    ],
+    "subtotal": "2991.50",
+    "tax_rate": "6.25",
+    "tax": "186.97",
+    "total": "3178.47",
+    "reader_notes": "Correction: the earlier extraction returned the subtotal as 2941.50 by mistake. The document prints a subtotal of $2,991.50. With that figure, tax (6.25% of 2991.50 = 186.97) and total (2991.50 + 186.97 = 3178.47) both match what is printed. One real mismatch is on the document itself: the four line amounts add up to 2941.50, which is 50.00 less than the printed subtotal of 2991.50. All values are kept as printed. The footer marks this as a synthetic sample document."
+  },
+  "checks": [
+    "lines add up to 2941.50, printed subtotal is 2991.50 (difference 50.00)"
+  ]
+}

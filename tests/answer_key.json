@@ -1,0 +1,1243 @@
+{
+  "_about": "Values printed on each synthetic document. Used only to MEASURE extraction accuracy.",
+  "documents": {
+    "INV_HP-10418.pdf": {
+      "type": "invoice",
+      "layout": "harbor_pine",
+      "vendor": "Harbor & Pine Stationery Co.",
+      "invoice_number": "HP-10418",
+      "invoice_date": "2026-02-09",
+      "due_date": "2026-03-11",
+      "reference": "BF-PO-2231",
+      "subtotal": "469.90",
+      "tax_rate": "8.25",
+      "tax": "38.77",
+      "total": "508.67",
+      "source": "text",
+      "lines": [
+        {
+          "code": "STA-1042",
+          "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "52.90",
+          "amount": "211.60"
+        },
+        {
+          "code": "STA-2210",
+          "description": "Gel Pens, Black (pack of 12)",
+          "qty": "6",
+          "unit": null,
+          "unit_price": "9.75",
+          "amount": "58.50"
+        },
+        {
+          "code": "STA-3307",
+          "description": "Heavy-Duty Stapler, 100 sheet",
+          "qty": "2",
+          "unit": null,
+          "unit_price": "24.90",
+          "amount": "49.80"
+        },
+        {
+          "code": "STA-1180",
+          "description": "Sticky Notes 3x3 in (12 pads)",
+          "qty": "5",
+          "unit": null,
+          "unit_price": "11.40",
+          "amount": "57.00"
+        },
+        {
+          "code": "STA-6003",
+          "description": "Bamboo Desk Organizer",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "31.00",
+          "amount": "93.00"
+        }
+      ]
+    },
+    "INV_HP-10425.pdf": {
+      "type": "invoice",
+      "layout": "harbor_pine",
+      "vendor": "Harbor & Pine Stationery Co.",
+      "invoice_number": "HP-10425",
+      "invoice_date": "2026-02-23",
+      "due_date": "2026-03-25",
+      "reference": "BF-PO-2238",
+      "subtotal": "468.07",
+      "tax_rate": "8.25",
+      "tax": "38.62",
+      "total": "506.69",
+      "source": "text",
+      "lines": [
+        {
+          "code": "STA-8044",
+          "description": "Toner Cartridge, Black, High Yield",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "64.99",
+          "amount": "194.97"
+        },
+        {
+          "code": "STA-5021",
+          "description": "Archive Storage Boxes (pack of 10)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "27.60",
+          "amount": "110.40"
+        },
+        {
+          "code": "STA-4415",
+          "description": "Whiteboard Markers, 8 colors",
+          "qty": "6",
+          "unit": null,
+          "unit_price": "13.20",
+          "amount": "79.20"
+        },
+        {
+          "code": "STA-2655",
+          "description": "Fabric Swatch Binders, 2 in",
+          "qty": "10",
+          "unit": null,
+          "unit_price": "8.35",
+          "amount": "83.50"
+        }
+      ]
+    },
+    "INV_HP-10432.pdf": {
+      "type": "invoice",
+      "layout": "harbor_pine",
+      "vendor": "Harbor & Pine Stationery Co.",
+      "invoice_number": "HP-10432",
+      "invoice_date": "2026-03-06",
+      "due_date": "2026-04-05",
+      "reference": "BF-PO-2246",
+      "subtotal": "567.30",
+      "tax_rate": "8.25",
+      "tax": "46.80",
+      "total": "614.10",
+      "source": "text",
+      "lines": [
+        {
+          "code": "STA-1042",
+          "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+          "qty": "6",
+          "unit": null,
+          "unit_price": "52.90",
+          "amount": "317.40"
+        },
+        {
+          "code": "STA-7120",
+          "description": "Laminating Pouches, Letter (100)",
+          "qty": "2",
+          "unit": null,
+          "unit_price": "18.45",
+          "amount": "36.90"
+        },
+        {
+          "code": "STA-3871",
+          "description": "Drafting Pencils, 2H-6B (set of 12)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "15.60",
+          "amount": "62.40"
+        },
+        {
+          "code": "STA-9310",
+          "description": "Cable Ties, 8 in (pack of 200)",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "6.80",
+          "amount": "20.40"
+        },
+        {
+          "code": "STA-2210",
+          "description": "Gel Pens, Black (pack of 12)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "9.75",
+          "amount": "39.00"
+        },
+        {
+          "code": "STA-1180",
+          "description": "Sticky Notes 3x3 in (12 pads)",
+          "qty": "8",
+          "unit": null,
+          "unit_price": "11.40",
+          "amount": "91.20"
+        }
+      ]
+    },
+    "HP-10432 resent.pdf": {
+      "type": "invoice",
+      "layout": "harbor_pine",
+      "vendor": "Harbor & Pine Stationery Co.",
+      "invoice_number": "HP-10432",
+      "invoice_date": "2026-03-06",
+      "due_date": "2026-04-05",
+      "reference": "BF-PO-2246",
+      "subtotal": "567.30",
+      "tax_rate": "8.25",
+      "tax": "46.80",
+      "total": "614.10",
+      "source": "text",
+      "lines": [
+        {
+          "code": "STA-1042",
+          "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+          "qty": "6",
+          "unit": null,
+          "unit_price": "52.90",
+          "amount": "317.40"
+        },
+        {
+          "code": "STA-7120",
+          "description": "Laminating Pouches, Letter (100)",
+          "qty": "2",
+          "unit": null,
+          "unit_price": "18.45",
+          "amount": "36.90"
+        },
+        {
+          "code": "STA-3871",
+          "description": "Drafting Pencils, 2H-6B (set of 12)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "15.60",
+          "amount": "62.40"
+        },
+        {
+          "code": "STA-9310",
+          "description": "Cable Ties, 8 in (pack of 200)",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "6.80",
+          "amount": "20.40"
+        },
+        {
+          "code": "STA-2210",
+          "description": "Gel Pens, Black (pack of 12)",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "9.75",
+          "amount": "39.00"
+        },
+        {
+          "code": "STA-1180",
+          "description": "Sticky Notes 3x3 in (12 pads)",
+          "qty": "8",
+          "unit": null,
+          "unit_price": "11.40",
+          "amount": "91.20"
+        }
+      ]
+    },
+    "Kestrelpoint invoice KD-2026-031.pdf": {
+      "type": "invoice",
+      "layout": "kestrelpoint",
+      "vendor": "Kestrelpoint Digital LLC",
+      "invoice_number": "KD-2026-031",
+      "invoice_date": "2026-03-01",
+      "due_date": "2026-03-31",
+      "reference": "BLU-WEB-07",
+      "subtotal": "1375.25",
+      "tax_rate": "6.25",
+      "tax": "85.95",
+      "total": "1461.20",
+      "source": "text",
+      "lines": [
+        {
+          "code": null,
+          "description": "Website maintenance retainer, March 2026 - Security updates, nightly backups, uptime monitoring",
+          "qty": "10",
+          "unit": null,
+          "unit_price": "95.00",
+          "amount": "950.00"
+        },
+        {
+          "code": null,
+          "description": "Managed hosting, Business plan (monthly)",
+          "qty": "1",
+          "unit": null,
+          "unit_price": "149.00",
+          "amount": "149.00"
+        },
+        {
+          "code": null,
+          "description": "Support tickets resolved (12) - Email and phone support, average response 2 h",
+          "qty": "3.25",
+          "unit": null,
+          "unit_price": "85.00",
+          "amount": "276.25"
+        }
+      ]
+    },
+    "Kestrelpoint invoice KD-2026-034.pdf": {
+      "type": "invoice",
+      "layout": "kestrelpoint",
+      "vendor": "Kestrelpoint Digital LLC",
+      "invoice_number": "KD-2026-034",
+      "invoice_date": "2026-03-08",
+      "due_date": "2026-04-07",
+      "reference": "BLU-WEB-08",
+      "subtotal": "2991.50",
+      "tax_rate": "6.25",
+      "tax": "186.97",
+      "total": "3178.47",
+      "source": "text",
+      "lines": [
+        {
+          "code": null,
+          "description": "Showroom booking page: design and build - Responsive layout, calendar integration, QA on 6 devices",
+          "qty": "18",
+          "unit": null,
+          "unit_price": "110.00",
+          "amount": "1980.00"
+        },
+        {
+          "code": null,
+          "description": "SEO audit and fixes - Core Web Vitals, metadata, 31 pages reviewed",
+          "qty": "6",
+          "unit": null,
+          "unit_price": "95.00",
+          "amount": "570.00"
+        },
+        {
+          "code": null,
+          "description": "Product photo optimization",
+          "qty": "4.5",
+          "unit": null,
+          "unit_price": "75.00",
+          "amount": "337.50"
+        },
+        {
+          "code": null,
+          "description": "Domain renewals (3 domains)",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "18.00",
+          "amount": "54.00"
+        }
+      ]
+    },
+    "Kestrelpoint invoice KD-2026-038.pdf": {
+      "type": "invoice",
+      "layout": "kestrelpoint",
+      "vendor": "Kestrelpoint Digital LLC",
+      "invoice_number": "KD-2026-038",
+      "invoice_date": "2026-03-15",
+      "due_date": "2026-04-14",
+      "reference": "BLU-WEB-09",
+      "subtotal": "1869.00",
+      "tax_rate": "6.25",
+      "tax": "116.81",
+      "total": "1985.81",
+      "source": "text",
+      "lines": [
+        {
+          "code": null,
+          "description": "Sales dashboard setup - 4 views, weekly e-mail summary, staff training",
+          "qty": "7",
+          "unit": null,
+          "unit_price": "110.00",
+          "amount": "770.00"
+        },
+        {
+          "code": null,
+          "description": "Website maintenance retainer, April 2026 - Security updates, nightly backups, uptime monitoring",
+          "qty": "10",
+          "unit": null,
+          "unit_price": "95.00",
+          "amount": "950.00"
+        },
+        {
+          "code": null,
+          "description": "Managed hosting, Business plan (monthly)",
+          "qty": "1",
+          "unit": null,
+          "unit_price": "149.00",
+          "amount": "149.00"
+        }
+      ]
+    },
+    "Kestrelpoint invoice KD-2026-041.pdf": {
+      "type": "invoice",
+      "layout": "kestrelpoint",
+      "vendor": "Kestrelpoint Digital LLC",
+      "invoice_number": "KD-2026-041",
+      "invoice_date": "2026-03-22",
+      "due_date": "2026-04-21",
+      "reference": "BLU-WEB-10",
+      "subtotal": "1923.75",
+      "tax_rate": "6.25",
+      "tax": "120.23",
+      "total": "2043.98",
+      "source": "text",
+      "lines": [
+        {
+          "code": null,
+          "description": "Online catalogue: 48 new product pages - Copy upload, image sizing, internal links",
+          "qty": "12",
+          "unit": null,
+          "unit_price": "95.00",
+          "amount": "1140.00"
+        },
+        {
+          "code": null,
+          "description": "Support tickets resolved (7)",
+          "qty": "2.75",
+          "unit": null,
+          "unit_price": "85.00",
+          "amount": "233.75"
+        },
+        {
+          "code": null,
+          "description": "Accessibility review (WCAG 2.2 AA) - Contrast, keyboard navigation, form labels",
+          "qty": "5",
+          "unit": null,
+          "unit_price": "110.00",
+          "amount": "550.00"
+        }
+      ]
+    },
+    "larkspur_LF-26-0457.pdf": {
+      "type": "invoice",
+      "layout": "larkspur",
+      "vendor": "Larkspur Freight Co.",
+      "invoice_number": "LF/26/0457",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-03-14",
+      "reference": "SHP-88412",
+      "subtotal": "951.25",
+      "tax_rate": "8.25",
+      "tax": "78.48",
+      "total": "1029.73",
+      "source": "text",
+      "lines": [
+        {
+          "code": "DLV",
+          "description": "Pallet delivery, Austin to Dallas",
+          "qty": "6",
+          "unit": "pallet",
+          "unit_price": "85.00",
+          "amount": "510.00"
+        },
+        {
+          "code": "LFT",
+          "description": "Liftgate service",
+          "qty": "2",
+          "unit": "stop",
+          "unit_price": "45.00",
+          "amount": "90.00"
+        },
+        {
+          "code": "RES",
+          "description": "Residential delivery surcharge",
+          "qty": "1",
+          "unit": "stop",
+          "unit_price": "60.00",
+          "amount": "60.00"
+        },
+        {
+          "code": "INS",
+          "description": "White-glove install, showroom fixtures",
+          "qty": "3.5",
+          "unit": "hr",
+          "unit_price": "72.50",
+          "amount": "253.75"
+        },
+        {
+          "code": "FSC",
+          "description": "Fuel surcharge",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "18.75",
+          "amount": "37.50"
+        }
+      ]
+    },
+    "larkspur_LF-26-0463.pdf": {
+      "type": "invoice",
+      "layout": "larkspur",
+      "vendor": "Larkspur Freight Co.",
+      "invoice_number": "LF/26/0463",
+      "invoice_date": "2026-03-05",
+      "due_date": "2026-03-20",
+      "reference": "SHP-88460",
+      "subtotal": "4991.05",
+      "tax_rate": "8.25",
+      "tax": "411.76",
+      "total": "5402.81",
+      "source": "text",
+      "lines": [
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2231, Austin to Round Rock",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "48.00",
+          "amount": "48.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2232, Austin to Georgetown",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "62.00",
+          "amount": "186.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2233, Austin to San Marcos",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "66.00",
+          "amount": "198.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2234, Austin to Pflugerville",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "44.00",
+          "amount": "44.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2235, Austin to Cedar Park",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "46.00",
+          "amount": "46.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2236, Austin to Kyle",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "52.00",
+          "amount": "156.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2237, Austin to Buda",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "49.00",
+          "amount": "98.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2238, Austin to Leander",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "55.00",
+          "amount": "165.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2239, Austin to Bastrop",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "71.00",
+          "amount": "213.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2240, Austin to Hutto",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "53.00",
+          "amount": "106.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2241, Austin to Lakeway",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "58.00",
+          "amount": "116.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2242, Austin to Manor",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "47.00",
+          "amount": "47.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2243, Austin to Dripping Springs",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "69.00",
+          "amount": "69.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2244, Austin to Round Rock",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "48.00",
+          "amount": "96.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2245, Austin to Georgetown",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "62.00",
+          "amount": "186.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2246, Austin to San Marcos",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "66.00",
+          "amount": "132.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2247, Austin to Pflugerville",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "44.00",
+          "amount": "88.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2248, Austin to Cedar Park",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "46.00",
+          "amount": "138.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2249, Austin to Kyle",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "52.00",
+          "amount": "156.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2250, Austin to Buda",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "49.00",
+          "amount": "49.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2251, Austin to Leander",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "55.00",
+          "amount": "110.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2252, Austin to Bastrop",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "71.00",
+          "amount": "213.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2253, Austin to Hutto",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "53.00",
+          "amount": "53.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2254, Austin to Lakeway",
+          "qty": "1",
+          "unit": "trip",
+          "unit_price": "58.00",
+          "amount": "58.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2255, Austin to Manor",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "47.00",
+          "amount": "141.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2256, Austin to Dripping Springs",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "69.00",
+          "amount": "138.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2257, Austin to Round Rock",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "48.00",
+          "amount": "144.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2258, Austin to Georgetown",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "62.00",
+          "amount": "124.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2259, Austin to San Marcos",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "66.00",
+          "amount": "132.00"
+        },
+        {
+          "code": "DLV",
+          "description": "Delivery job J-2260, Austin to Pflugerville",
+          "qty": "2",
+          "unit": "trip",
+          "unit_price": "44.00",
+          "amount": "88.00"
+        },
+        {
+          "code": "LFT",
+          "description": "Liftgate service",
+          "qty": "6",
+          "unit": "stop",
+          "unit_price": "45.00",
+          "amount": "270.00"
+        },
+        {
+          "code": "INS",
+          "description": "White-glove install, showroom fixtures",
+          "qty": "7.5",
+          "unit": "hr",
+          "unit_price": "72.50",
+          "amount": "543.75"
+        },
+        {
+          "code": "PKG",
+          "description": "Packing materials",
+          "qty": "2",
+          "unit": "lot",
+          "unit_price": "38.40",
+          "amount": "76.80"
+        },
+        {
+          "code": "FSC",
+          "description": "Fuel surcharge",
+          "qty": "30",
+          "unit": "trip",
+          "unit_price": "18.75",
+          "amount": "562.50"
+        }
+      ]
+    },
+    "larkspur_LF-26-0470.pdf": {
+      "type": "invoice",
+      "layout": "larkspur",
+      "vendor": "Larkspur Freight Co.",
+      "invoice_number": "LF/26/0470",
+      "invoice_date": "2026-03-12",
+      "due_date": "2026-03-27",
+      "reference": "SHP-88507",
+      "subtotal": "574.20",
+      "tax_rate": "8.25",
+      "tax": "47.37",
+      "total": "621.57",
+      "source": "text",
+      "lines": [
+        {
+          "code": "STO",
+          "description": "Climate-controlled storage",
+          "qty": "14",
+          "unit": "day",
+          "unit_price": "12.00",
+          "amount": "168.00"
+        },
+        {
+          "code": "PKG",
+          "description": "Packing materials",
+          "qty": "3",
+          "unit": "lot",
+          "unit_price": "38.40",
+          "amount": "115.20"
+        },
+        {
+          "code": "CUR",
+          "description": "Same-day courier, Austin metro",
+          "qty": "4",
+          "unit": "trip",
+          "unit_price": "54.00",
+          "amount": "216.00"
+        },
+        {
+          "code": "FSC",
+          "description": "Fuel surcharge",
+          "qty": "4",
+          "unit": "trip",
+          "unit_price": "18.75",
+          "amount": "75.00"
+        }
+      ]
+    },
+    "larkspur_LF-26-0478.pdf": {
+      "type": "invoice",
+      "layout": "larkspur",
+      "vendor": "Larkspur Freight Co.",
+      "invoice_number": "LF/26/0478",
+      "invoice_date": "2026-03-19",
+      "due_date": "2026-04-03",
+      "reference": "SHP-88551",
+      "subtotal": "1511.25",
+      "tax_rate": "8.25",
+      "tax": "124.68",
+      "total": "1635.93",
+      "source": "text",
+      "lines": [
+        {
+          "code": "DLV",
+          "description": "Pallet delivery, Austin to Dallas",
+          "qty": "9",
+          "unit": "pallet",
+          "unit_price": "85.00",
+          "amount": "765.00"
+        },
+        {
+          "code": "LFT",
+          "description": "Liftgate service",
+          "qty": "3",
+          "unit": "stop",
+          "unit_price": "45.00",
+          "amount": "135.00"
+        },
+        {
+          "code": "INS",
+          "description": "White-glove install, showroom fixtures",
+          "qty": "6",
+          "unit": "hr",
+          "unit_price": "72.50",
+          "amount": "435.00"
+        },
+        {
+          "code": "RES",
+          "description": "Residential delivery surcharge",
+          "qty": "2",
+          "unit": "stop",
+          "unit_price": "60.00",
+          "amount": "120.00"
+        },
+        {
+          "code": "FSC",
+          "description": "Fuel surcharge",
+          "qty": "3",
+          "unit": "trip",
+          "unit_price": "18.75",
+          "amount": "56.25"
+        }
+      ]
+    },
+    "scan_0037.pdf": {
+      "type": "invoice",
+      "layout": "harbor_pine",
+      "vendor": "Harbor & Pine Stationery Co.",
+      "invoice_number": "HP-10437",
+      "invoice_date": "2026-03-17",
+      "due_date": "2026-04-16",
+      "reference": "BF-PO-2252",
+      "subtotal": "592.08",
+      "tax_rate": "8.25",
+      "tax": "48.85",
+      "total": "640.93",
+      "source": "scan",
+      "lines": [
+        {
+          "code": "STA-8044",
+          "description": "Toner Cartridge, Black, High Yield",
+          "qty": "2",
+          "unit": null,
+          "unit_price": "64.99",
+          "amount": "129.98"
+        },
+        {
+          "code": "STA-1042",
+          "description": "Copy Paper, Letter 20 lb (case of 10 reams)",
+          "qty": "5",
+          "unit": null,
+          "unit_price": "52.90",
+          "amount": "264.50"
+        },
+        {
+          "code": "STA-6003",
+          "description": "Bamboo Desk Organizer",
+          "qty": "2",
+          "unit": null,
+          "unit_price": "31.00",
+          "amount": "62.00"
+        },
+        {
+          "code": "STA-4415",
+          "description": "Whiteboard Markers, 8 colors",
+          "qty": "4",
+          "unit": null,
+          "unit_price": "13.20",
+          "amount": "52.80"
+        },
+        {
+          "code": "STA-5021",
+          "description": "Archive Storage Boxes (pack of 10)",
+          "qty": "3",
+          "unit": null,
+          "unit_price": "27.60",
+          "amount": "82.80"
+        }
+      ]
+    },
+    "Statement_Mar2026_Lanternfield.pdf": {
+      "type": "statement",
+      "bank": "Lanternfield Bank",
+      "account": "****4821",
+      "period_start": "2026-03-01",
+      "period_end": "2026-03-31",
+      "opening_balance": "48215.37",
+      "closing_balance": "65950.83",
+      "deposits_count": 12,
+      "deposits_total": "97773.18",
+      "withdrawals_count": 33,
+      "withdrawals_total": "80037.72",
+      "rows": [
+        {
+          "date": "2026-03-02",
+          "description": "RENT CEDAR POINT PROPERTIES MARCH 2026 LEASE 1209 CEDAR PT",
+          "withdrawal": "6250.00",
+          "deposit": null,
+          "balance": "41965.37"
+        },
+        {
+          "date": "2026-03-02",
+          "description": "ACH CREDIT OAKHOLLOW DENTAL GROUP INV BI-2026-118",
+          "withdrawal": null,
+          "deposit": "8400.00",
+          "balance": "50365.37"
+        },
+        {
+          "date": "2026-03-03",
+          "description": "CARD 4821 CEDAR HARDWARE SUPPLY AUSTIN TX",
+          "withdrawal": "186.42",
+          "deposit": null,
+          "balance": "50178.95"
+        },
+        {
+          "date": "2026-03-03",
+          "description": "MOBILE DEPOSIT CHECK 1043",
+          "withdrawal": null,
+          "deposit": "2750.00",
+          "balance": "52928.95"
+        },
+        {
+          "date": "2026-03-04",
+          "description": "CARD 4821 TEXTILE HOUSE AUSTIN TX",
+          "withdrawal": "1204.80",
+          "deposit": null,
+          "balance": "51724.15"
+        },
+        {
+          "date": "2026-03-05",
+          "description": "LONE STAR POWER & LIGHT AUTOPAY",
+          "withdrawal": "412.67",
+          "deposit": null,
+          "balance": "51311.48"
+        },
+        {
+          "date": "2026-03-05",
+          "description": "WIRE IN CEDAR & STONE ARCHITECTS REF W-5521",
+          "withdrawal": null,
+          "deposit": "12500.00",
+          "balance": "63811.48"
+        },
+        {
+          "date": "2026-03-06",
+          "description": "CARD 4821 FUELSTOP 212 AUSTIN TX",
+          "withdrawal": "74.18",
+          "deposit": null,
+          "balance": "63737.30"
+        },
+        {
+          "date": "2026-03-06",
+          "description": "ACH DEBIT CITYLINE INTERNET ACCT 55-0917",
+          "withdrawal": "189.99",
+          "deposit": null,
+          "balance": "63547.31"
+        },
+        {
+          "date": "2026-03-09",
+          "description": "CARD 4821 MODERN LIGHTING DEPOT",
+          "withdrawal": "2315.60",
+          "deposit": null,
+          "balance": "61231.71"
+        },
+        {
+          "date": "2026-03-09",
+          "description": "ACH CREDIT HILLCREST HOTEL GROUP INV BI-2026-121",
+          "withdrawal": null,
+          "deposit": "15800.00",
+          "balance": "77031.71"
+        },
+        {
+          "date": "2026-03-10",
+          "description": "CARD 4821 OFFICE CAFE CATERING",
+          "withdrawal": "96.50",
+          "deposit": null,
+          "balance": "76935.21"
+        },
+        {
+          "date": "2026-03-10",
+          "description": "ACH DEBIT HARBOR & PINE STATIONERY INV HP-10418",
+          "withdrawal": "508.67",
+          "deposit": null,
+          "balance": "76426.54"
+        },
+        {
+          "date": "2026-03-11",
+          "description": "CARD 4821 PRINTWORKS AUSTIN",
+          "withdrawal": "238.70",
+          "deposit": null,
+          "balance": "76187.84"
+        },
+        {
+          "date": "2026-03-12",
+          "description": "ACH DEBIT SHIELDPOINT MUTUAL INS POLICY BP-77120",
+          "withdrawal": "1145.00",
+          "deposit": null,
+          "balance": "75042.84"
+        },
+        {
+          "date": "2026-03-12",
+          "description": "MOBILE DEPOSIT CHECK 1051",
+          "withdrawal": null,
+          "deposit": "4200.00",
+          "balance": "79242.84"
+        },
+        {
+          "date": "2026-03-13",
+          "description": "PAYROLL BLUEFERN INTERIORS PPE 03/08/2026",
+          "withdrawal": "18412.33",
+          "deposit": null,
+          "balance": "60830.51"
+        },
+        {
+          "date": "2026-03-13",
+          "description": "ACH DEBIT LARKSPUR FREIGHT CO INV LF/26/0457",
+          "withdrawal": "1029.73",
+          "deposit": null,
+          "balance": "59800.78"
+        },
+        {
+          "date": "2026-03-16",
+          "description": "CARD 4821 WOODCRAFT MILLWORK",
+          "withdrawal": "3480.00",
+          "deposit": null,
+          "balance": "56320.78"
+        },
+        {
+          "date": "2026-03-16",
+          "description": "ACH CREDIT RIVERSTONE PEDIATRICS INV BI-2026-124",
+          "withdrawal": null,
+          "deposit": "6925.00",
+          "balance": "63245.78"
+        },
+        {
+          "date": "2026-03-17",
+          "description": "CARD 4821 FUELSTOP 212 AUSTIN TX",
+          "withdrawal": "68.42",
+          "deposit": null,
+          "balance": "63177.36"
+        },
+        {
+          "date": "2026-03-17",
+          "description": "TRANSFER TO SAVINGS ****9930",
+          "withdrawal": "5000.00",
+          "deposit": null,
+          "balance": "58177.36"
+        },
+        {
+          "date": "2026-03-18",
+          "description": "CARD 4821 PAINT & PATINA SUPPLY",
+          "withdrawal": "642.15",
+          "deposit": null,
+          "balance": "57535.21"
+        },
+        {
+          "date": "2026-03-18",
+          "description": "WIRE IN BARTON CREEK LOFTS HOA REF W-5588",
+          "withdrawal": null,
+          "deposit": "21350.00",
+          "balance": "78885.21"
+        },
+        {
+          "date": "2026-03-19",
+          "description": "CARD 4821 PRINTWORKS AUSTIN",
+          "withdrawal": "112.35",
+          "deposit": null,
+          "balance": "78772.86"
+        },
+        {
+          "date": "2026-03-19",
+          "description": "ACH DEBIT LARKSPUR FREIGHT CO INV LF/26/0463",
+          "withdrawal": "5402.81",
+          "deposit": null,
+          "balance": "73370.05"
+        },
+        {
+          "date": "2026-03-20",
+          "description": "ACH DEBIT TX COMPTROLLER SALES TAX FEB 2026",
+          "withdrawal": "3912.45",
+          "deposit": null,
+          "balance": "69457.60"
+        },
+        {
+          "date": "2026-03-20",
+          "description": "MOBILE DEPOSIT CHECK 1058",
+          "withdrawal": null,
+          "deposit": "1980.00",
+          "balance": "71437.60"
+        },
+        {
+          "date": "2026-03-23",
+          "description": "CARD 4821 CEDAR HARDWARE SUPPLY AUSTIN TX",
+          "withdrawal": "312.09",
+          "deposit": null,
+          "balance": "71125.51"
+        },
+        {
+          "date": "2026-03-23",
+          "description": "ACH CREDIT OAKHOLLOW DENTAL GROUP INV BI-2026-127",
+          "withdrawal": null,
+          "deposit": "9150.00",
+          "balance": "80275.51"
+        },
+        {
+          "date": "2026-03-24",
+          "description": "CARD 4821 TEXTILE HOUSE AUSTIN TX",
+          "withdrawal": "2086.40",
+          "deposit": null,
+          "balance": "78189.11"
+        },
+        {
+          "date": "2026-03-24",
+          "description": "ACH DEBIT HARBOR & PINE STATIONERY INV HP-10425",
+          "withdrawal": "506.69",
+          "deposit": null,
+          "balance": "77682.42"
+        },
+        {
+          "date": "2026-03-25",
+          "description": "ACH DEBIT FLEETWISE AUTO LEASE CONTRACT FL-2209",
+          "withdrawal": "689.00",
+          "deposit": null,
+          "balance": "76993.42"
+        },
+        {
+          "date": "2026-03-25",
+          "description": "CARD 4821 OFFICE CAFE CATERING",
+          "withdrawal": "143.25",
+          "deposit": null,
+          "balance": "76850.17"
+        },
+        {
+          "date": "2026-03-26",
+          "description": "ACH CREDIT HILLCREST HOTEL GROUP INV BI-2026-130",
+          "withdrawal": null,
+          "deposit": "11240.00",
+          "balance": "88090.17"
+        },
+        {
+          "date": "2026-03-26",
+          "description": "ACH DEBIT LARKSPUR FREIGHT CO INV LF/26/0470",
+          "withdrawal": "621.57",
+          "deposit": null,
+          "balance": "87468.60"
+        },
+        {
+          "date": "2026-03-27",
+          "description": "PAYROLL BLUEFERN INTERIORS PPE 03/22/2026",
+          "withdrawal": "18506.91",
+          "deposit": null,
+          "balance": "68961.69"
+        },
+        {
+          "date": "2026-03-27",
+          "description": "CARD 4821 FUELSTOP 212 AUSTIN TX",
+          "withdrawal": "81.37",
+          "deposit": null,
+          "balance": "68880.32"
+        },
+        {
+          "date": "2026-03-27",
+          "description": "ACH DEBIT HARBOR & PINE STATIONERY INV HP-10432",
+          "withdrawal": "614.10",
+          "deposit": null,
+          "balance": "68266.22"
+        },
+        {
+          "date": "2026-03-30",
+          "description": "MOBILE DEPOSIT CHECK 1066",
+          "withdrawal": null,
+          "deposit": "3475.00",
+          "balance": "71741.22"
+        },
+        {
+          "date": "2026-03-30",
+          "description": "CARD 4821 MODERN LIGHTING DEPOT",
+          "withdrawal": "1128.90",
+          "deposit": null,
+          "balance": "70612.32"
+        },
+        {
+          "date": "2026-03-30",
+          "description": "ACH DEBIT KESTRELPOINT DIGITAL INV KD-2026-031",
+          "withdrawal": "1461.20",
+          "deposit": null,
+          "balance": "69151.12"
+        },
+        {
+          "date": "2026-03-31",
+          "description": "SERVICE FEE BUSINESS CHECKING",
+          "withdrawal": "25.00",
+          "deposit": null,
+          "balance": "69126.12"
+        },
+        {
+          "date": "2026-03-31",
+          "description": "INTEREST PAYMENT",
+          "withdrawal": null,
+          "deposit": "3.18",
+          "balance": "69129.30"
+        },
+        {
+          "date": "2026-03-31",
+          "description": "ACH DEBIT KESTRELPOINT DIGITAL INV KD-2026-034",
+          "withdrawal": "3178.47",
+          "deposit": null,
+          "balance": "65950.83"
+        }
+      ]
+    }
+  },
+  "planted_problems": [
+    "KD-2026-034: printed subtotal is $50.00 higher than the sum of its line items",
+    "HP-10432: the same invoice is in the folder twice (INV_HP-10432.pdf and 'HP-10432 resent.pdf')"
+  ]
+}
